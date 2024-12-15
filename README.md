@@ -1,4 +1,4 @@
-# VisionChat 🚀  
+# VisionChat AI Image Analysis 🚀  
 **👁️ See Beyond the Ordinary**  
 
 Welcome to **VisionChat**, where AI meets your imagination! This isn't just another app – it’s your **personal AI-powered vision assistant**, ready to analyze, interpret, and chat about the world hidden in your images. 🌎✨  

@@ -11,6 +11,21 @@ Ever wondered what your images might say if they could talk? 🤔 VisionChat giv
 It’s **fun**, it’s **interactive**, and it’s here to redefine how you engage with visual content. Let’s dive in! 🚀  
 
 
+## 🛠️ **Technologies Used**  
+
+VisionChat is powered by a robust stack of cutting-edge tools and frameworks: 
+- **🌐 Streamlit**: For building an intuitive and interactive user interface. #Python #Streamlit  
+- **🤖 Vision-Language Models (VLMs)**: Advanced AI models for understanding and interpreting images. #AI #MachineLearning #VisionAI  
+- **📚 Hugging Face Transformers**: Utilizing pre-trained models for seamless integration. #HuggingFace #DeepLearning  
+- **🖼️ OpenCV**: For real-time image capture and processing. #OpenCV #ComputerVision  
+- **🔥 PyTorch / TensorFlow**: As the backbone for AI model inference. #PyTorch #TensorFlow #DeepLearning  
+- **📦 NumPy & Pandas**: For efficient data handling and manipulation. #NumPy #Pandas #DataScience  
+- **📈 Matplotlib / Seaborn**: For optional visualization and data insights. #Matplotlib #Seaborn #DataVisualization  
+
+These technologies come together to create a seamless and powerful experience, ensuring that VisionChat delivers accurate, real-time, and insightful image analysis.
+
+
+
 ## 🌟 **Why You’ll Love VisionChat**  
 
 ### 📸 **Snap, Upload, or Ask Away!**  
